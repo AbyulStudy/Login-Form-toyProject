@@ -1,0 +1,13 @@
+.hide {
+  display: none;
+}
+
+.ps_box{
+  border: solid 1px #dadada;
+  outline: none;
+  padding: 10px;
+}
+
+.ps_box.focus{
+  border: solid 1px #89ee41
+}
